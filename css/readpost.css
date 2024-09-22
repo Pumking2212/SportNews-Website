@@ -1,0 +1,8 @@
+/* CSS for additional images */
+.additional-images {
+    margin-top: 20px; /* Add margin-top to separate from previous content */
+}
+
+.additional-image {
+    margin-bottom: 20px; /* Add margin-bottom for spacing between images */
+}
